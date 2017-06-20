@@ -1,0 +1,8 @@
+Adicionar os jars do projeto --> pegar todos os jars
+Testar para outros projetos
+	keepcalm-BukkitForge
+	webbukkit-dynmap
+Resolver dependencias externas!
+	Identificar os arquivos que relacionam as dependencias externas
+		[ant] build.xml parece não incluir jars externos ao projeto
+
